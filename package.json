@@ -1,0 +1,19 @@
+{
+  "name": "cli99_calculater",
+  "version": "2.0.1",
+  "description": "Created a simple command-line calculator in TypeScript using Node.js and the Inquirer library involves a straightforward yet engaging process. This calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division directly from the command line.",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "viky",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.16"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
